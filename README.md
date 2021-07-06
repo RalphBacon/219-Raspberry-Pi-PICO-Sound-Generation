@@ -1,7 +1,7 @@
 # #219 Raspberry Pi PICO Sound Generation
 Generating sounds using the PICO and a small piezo buzzer
 
-See video #219 here: https://ww.youtube.com/ralphbacon
+See video #219 here: https://ww.youtube.com/ralphbacon  
 Direct link to video: https://youtu.be/9H6zeZcrZ7M
 
 ![image](https://user-images.githubusercontent.com/20911308/124586617-8ed3e980-de4e-11eb-94e3-0032c7e29807.png)
