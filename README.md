@@ -27,6 +27,9 @@ https://github.com/RalphBacon
 PRODUCTS - Some popular items used in previous videos
 --------
 
+Bag of 50 (yes, fifty) passive buzzers from Amazon
+https://amzn.to/3jSSN5D
+
 The **2.8" TFT touch screen** used in my demo for just $6.66 (plus $2.05 shipping) or from USA & UK direct:  
 2.8 Inch ILI9341 240x320 SPI TFT LCD Display Touch Panel SPI Serial Port Module  
 https://www.banggood.com/custlink/v33EPJT6cF
