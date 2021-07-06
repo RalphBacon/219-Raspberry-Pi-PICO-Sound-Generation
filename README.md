@@ -8,7 +8,7 @@ Direct link to video: https://youtu.be/9H6zeZcrZ7M
 
 So I'm experimenting with sound generation using square waves (PWM) and a small beeper. Pretty awful screechy stuff, to be honest, but it will (probably) suffice for a simple notification that the fridge door has been left open.
 
-We're using MicroPython just for grins and giggles, although C++ would work just fine too on the PICO.
+We're using MicroPython just for grins and giggles, although C++ would work just fine too on the PICO. 
 
 ### List of all my videos
 (Special thanks to Michael Kurt Vogel for compiling this)  
